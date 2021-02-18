@@ -9,10 +9,10 @@ name: canublog
 author: canuhong
 
 # Short bio or description (displayed in the header)
-description: bio
+description: undergrad at kuecon
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/original_icon.png
 
 #
 # Flags below are optional
@@ -25,7 +25,7 @@ footer-links:
   facebook:
   flickr:
   github: 
-  instagram:
+  instagram: @canuhong
   linkedin: 
   pinterest:
   rss: 
