@@ -8,14 +8,8 @@ I used [Reverie](https://github.com/amitmerchant1990/reverie) which is a [Jekyll
 
 ![](/images/reverie-demo.png)
 
-**I'm not going to delete any of the template posts, because I might have to look back at those in the future to make my posts**
+**I'm not going to delete any of the template posts (at least not for a while), because I might have to look back at those in the future to make my posts**
 
 <div style="text-align: center;">
  <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7D6KJY&placement=wwwamitmerchantcom" id="_carbonads_js"></script>
 </div>
-
-## License
-
-MIT
-
-
