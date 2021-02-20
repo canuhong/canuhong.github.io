@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Readings
-permalink: /Readings/
+permalink: /readings/
 ---
 
 Just a rough draft for later use
